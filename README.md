@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ninajhun/ninajhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👩🏽‍💻 Hi, I’m Nina!
+I fell into the world of software development by accident and I haven’t looked back since. 
+
+I'm a Full-Stack Web Developer currently looking for opportunities to launch my career in the Tech Industry. My current stack includes JavaScript, React, Node.js, PostgreSQL, and CSS, but I’m constantly learning more! 
+
+## 🌱  I’m currently learning...
+- Socket.io! 
+- React Hooks 
+- Chakra UI 
+
+
