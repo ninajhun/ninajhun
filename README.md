@@ -21,7 +21,7 @@ I fell into the world of software development by accident and I haven’t looked
 I'm a Full-Stack Web Developer currently looking for opportunities to launch my career in the Tech Industry. My current stack includes JavaScript, React, Node.js, PostgreSQL, and CSS, but I’m constantly learning more! 
 
 ## 🌱  I’m currently learning...
-- Socket.io! 
+- Socket.io
 - React Hooks 
 - Chakra UI 
 
