@@ -15,21 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👩🏽‍💻 Hi, I’m Nina!
+### 👩🏽‍💻 Hi, I’m Nina!
 I fell into the world of software development by accident and I haven’t looked back since. 
 
 I'm a Full-Stack Web Developer currently looking for opportunities to launch my career in the Tech Industry. My current stack includes JavaScript, React, Node.js, PostgreSQL, and CSS, but I’m constantly learning more! 
 
-## 🌱  I’m currently learning...
+### 🌱  I’m currently learning...
 - Socket.io
 - React Hooks 
 - Chakra UI 
 
-## 🚀 Want to get in touch or see my portfolio?
+### 🚀 Want to get in touch or see my portfolio?
 - send me an email @ <ninajhun@berkeley.edu>
 - check out my work @ [ninajhun.com](https://ninajhun.com)
 
-## ⚡️ Check out some stats! 
+### ⚡️ Check out some stats! 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninajhun&&count_private=true&hide=stars,issues,contribs&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
