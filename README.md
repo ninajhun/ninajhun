@@ -29,6 +29,9 @@ I'm a Full-Stack Web Developer currently looking for opportunities to launch my 
 - send me an email @ <ninajhun@berkeley.edu>
 - check out my work @ [ninajhun.com](https://ninajhun.com)
 
+### 📖 Check out my article about the job search on Level Up Coding by gitconnected! 
+- [5 Things I Wish I Knew About the Job Search Before Graduating from a Coding Bootcamp](https://levelup.gitconnected.com/5-things-i-wish-i-knew-about-the-job-search-before-graduating-from-a-coding-bootcamp-a39fe967c636)
+
 ### ⚡️ Check out some stats! 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninajhun&&count_private=true&hide=stars,issues,contribs&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
