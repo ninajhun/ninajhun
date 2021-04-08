@@ -22,8 +22,6 @@ I'm a Full-Stack Web Developer currently looking for opportunities to launch my 
 
 ### 🌱  I’m currently learning...
 - Socket.io
-- React Hooks 
-- Chakra UI 
 
 ### 🚀 Want to get in touch or see my portfolio?
 - send me an email @ <ninajhun@berkeley.edu>
