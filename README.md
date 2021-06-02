@@ -25,6 +25,7 @@ I'm a Full-Stack Web Developer currently looking for opportunities to launch my 
 
 ### 🚀 Want to get in touch or see my portfolio?
 - send me an email @ <ninajhun@berkeley.edu>
+- connect w/ me on LinkedIn <https://www.linkedin.com/in/ninajhunjhnuwala/>
 - check out my work @ [ninajhun.com](https://ninajhun.com)
 
 ### 📖 Check out my article about the job search on Level Up Coding by gitconnected! 
