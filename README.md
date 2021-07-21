@@ -21,8 +21,8 @@ I fell into the world of software development by accident and I haven’t looked
 I'm a Full-Stack Web Developer currently looking for opportunities to launch my career in the Tech Industry. My current stack includes JavaScript, React, Node.js, PostgreSQL, CSS, and HTML but I’m constantly learning more! 
 
 ### 🌱  I’m currently learning...
-- Socket.io
-- GraphQL
+- Testing
+- styled-components 
 
 ### 🚀 Want to get in touch or see my portfolio?
 - send me an email @ <ninajhun@berkeley.edu>
