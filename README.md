@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ### 👩🏽‍💻 Hi, I’m Nina!
 I fell into the world of software development by accident and I haven’t looked back since. 
 
-I'm a Full-Stack Web Developer currently looking for opportunities to launch my career in the Tech Industry. My current stack includes JavaScript, React, Node.js, PostgreSQL, CSS, and HTML but I’m constantly learning more! 
-
 ### 🌱  I’m currently learning...
 - Testing
 - styled-components 
