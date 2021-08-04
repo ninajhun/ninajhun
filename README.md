@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 I fell into the world of software development by accident and I haven’t looked back since. 
 
 ### 🌱  I’m currently learning...
-- testing
 - styled-components 
 
 ### 🚀 Want to get in touch or see my portfolio?
