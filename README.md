@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 🌱  I’m currently learning...
+- styled-components 
+
 -->
 
 ### 👩🏽‍💻 Hi, I’m Nina!
 I fell into the world of software development by accident and I haven’t looked back since. 
-
-### 🌱  I’m currently learning...
-- styled-components 
 
 ### 🚀 Want to get in touch or see my portfolio?
 - send me an email @ <ninajhun@berkeley.edu>
