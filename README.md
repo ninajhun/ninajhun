@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 ### 👩🏽‍💻 Hi, I’m Nina!
 I fell into the world of software development by accident and I haven’t looked back since. 
 
-### 🚀 Want to get in touch or see my portfolio?
-- send me an email @ <ninajhun@berkeley.edu>
+### 🚀 Want to get in touch?
 - connect w/ me on LinkedIn <https://www.linkedin.com/in/ninajhunjhnuwala/>
-- check out my work @ [ninajhun.com](https://ninajhun.com)
 
 ### 📖 Check out my article about the job search on Level Up Coding by gitconnected! 
 - [5 Things I Wish I Knew About the Job Search Before Graduating from a Coding Bootcamp](https://levelup.gitconnected.com/5-things-i-wish-i-knew-about-the-job-search-before-graduating-from-a-coding-bootcamp-a39fe967c636)
