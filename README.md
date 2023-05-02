@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - styled-components  
 
 -->
-## Currently open to work - If you are a recruiter, welcome! 👋
+## Currently open to work - If you're a recruiter, welcome! 👋
 
 ### 👩🏽‍💻 Hi, I’m Nina!
 I fell into the world of software development by accident and I haven’t looked back since. 
