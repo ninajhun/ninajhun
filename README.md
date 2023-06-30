@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 ### 🌱  I’m currently learning...
 - styled-components  
 
+### ⚡️ Check out some stats! 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninajhun&&count_private=true&hide=stars,issues,contribs&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 ## Currently open to work - If you're a recruiter, welcome! 👋
 
@@ -28,9 +31,6 @@ I fell into the world of software development by accident and I haven’t looked
 
 ### 📖 Check out my article about the job search on Level Up Coding by gitconnected! 
 - [5 Things I Wish I Knew About the Job Search Before Graduating from a Coding Bootcamp](https://levelup.gitconnected.com/5-things-i-wish-i-knew-about-the-job-search-before-graduating-from-a-coding-bootcamp-a39fe967c636)
-
-### ⚡️ Check out some stats! 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninajhun&&count_private=true&hide=stars,issues,contribs&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠 Skills
 <a href="https://github.com/ninajhun"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a> 
