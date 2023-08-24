@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninajhun&&count_private=true&hide=stars,issues,contribs&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
-## Currently open to work - If you're a recruiter, welcome! 👋
+## Currently open to work
 
 ### 👩🏽‍💻 Hi, I’m Nina!
 I fell into the world of software development by accident and I haven’t looked back since. 
